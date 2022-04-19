@@ -1,13 +1,58 @@
-## Python语言基础50课
+# Python语法基础课
+一般的教程对初学者上手入门的难度还是挺大，所以发布了一个这个项目 ，把python语言基础部分单独列出来，这个项目用更为简单通俗的方式展现出来，做到对小白更加友好。
 
-由于之前发布的 Python 学习项目 [Python-100-Days](https://github.com/jackfrued/Python-100-Days) 对初学者来说上手还是有一定难度，所以花了点之间把原来项目中 Python 语言基础部分单独剥离出来，做成了现在这个名为“Python语言基础50课”的项目。现在这个项目用更为简单通俗的方式重写了原来“Python100天”项目中第1天到第15天的部分，**有删减也有补充**，力求**对初学者更加友好**，也欢迎大家关注这个持续更新中的项目。国内用户如果访问 GitHub 比较慢的话，也可以关注我的知乎号 [Python-Jack](https://www.zhihu.com/people/jackfrued) 上的[“从零开始学Python”](<https://zhuanlan.zhihu.com/c_1216656665569013760>)专栏，两边同步更新。有需要的小伙伴可以关注我在知乎的专栏、文章和回答，当然，也欢迎大家评论、收藏和点赞。如果需要**视频教程**，可以到“B站”上搜索[《Python零基础快速上手》](https://www.bilibili.com/video/BV1FT4y1R7sz)。
+## python语法教程目录如： 
+- 01 初识Python
+- 02 第一个Python程序
+- 03 Python语言元素之变量
+- 04 Python语言元素之运算符
+- 05 分支结构
+- 06 循环结构
+- 07 分支和循环结构的应用
+- 08 常用数据结构之列表
+- 09 常用数据结构之元组
+- 10 常用数据结构之字符串
+- 11 常用数据结构之集合
+- 12 常用数据结构之字典
+- 13 函数和模块
+- 14 函数的应用
+- 15 函数使用进阶
+- 16 函数的高级应用
+- 17 面向对象编程入门
+- 18 面向对象编程进阶
+- 19 面向对象编程应用
+- 20 Python标准库初探
+- 21 文件读写和异常处理
+- 22 对象的序列化和反序列化
+- 23 用Python读写CSV文件
+- 24 用Python读写Excel文件
+- 25 用Python读写Excel文件
+- 26 用Python操作Word文件和PowerPoint
+- 27 用Python操作PDF文件
+- 28 用Python处理图像
+- 29 用Python发送邮件和短信
+- 30 正则表达式的应用
+- 31 网络数据采集概述
+- 32 用Python获取网络资源
+- 33 用Python解析HTML页面
+- 34 Python中的并发编程-1
+- 35 Python中的并发编程-2
+- 36 Python中的并发编程-3
+- 37 并发编程在爬虫中的应用
+- 38 抓取网页动态内容
+- 39 爬虫框架Scrapy简介
+- 40 关系型数据库和MySQL概述.
+- 41 SQL详解
+- 42 深入MySQL
+- 43 Python程序接入MySQL数据库
 
-最近，国内访问 GitHub 会因为 DNS（域名解析服务）的问题出现**图片无法显示**的情况，如果你也遇到了这样的问题，可以通过**修改本机的 hosts 文件**直接对 GitHub 的资源链接进行域名解析来加以解决。使用 macOS 系统的读者可以参考[《macOS 下三种修改 hosts 文件的方法》](<https://www.jianshu.com/p/752211238c1b>)一文来修改 hosts 文件；使用 Windows 系统的读者可以参考[《在 Windows 上如何管理 hosts 文件》](<https://sspai.com/post/43248>)一文来进行操作。我们可以把下面的内容添加到 hosts 文件的末尾，这样就可以解决 GitHub 上图片无法显示的问题。
+持续更新中..........
+#
+### 如果本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
 
-```INI
-151.101.184.133    assets-cdn.github.com
-151.101.184.133    raw.githubusercontent.com
-151.101.184.133    gist.githubusercontent.com
-151.101.184.133    cloud.githubusercontent.com
-151.101.184.133    camo.githubusercontent.com
-```
+请微信扫码加入Python技术交流群获取教程的配套资料
+
+![75](https://user-images.githubusercontent.com/103555341/163770456-42dbd01a-60c2-48f4-9321-04849ac35436.jpg)
+
+
+
