@@ -55,7 +55,7 @@
 
 请微信扫码加入Python技术交流群获取教程的配套资料
 
-![75](https://user-images.githubusercontent.com/103555341/163770456-42dbd01a-60c2-48f4-9321-04849ac35436.jpg)
+![春风微码](https://github.com/user-attachments/assets/28b9a8a8-ac17-4a46-8e84-9c09ec36715f)
 
 
 
