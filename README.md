@@ -53,8 +53,9 @@
 - [Python 经典小例子、小案例](https://github.com/CodeBang06/python-examples)
 - [Ashare最简股票行情数据接口API,A股行情完全开源免费](https://github.com/CodeBang06/Ashare)
 
-请微信扫码加入Python技术交流群获取教程的配套资料
+请QQ 扫码加入Python技术交流群获取教程的配套资料
 
-![风吹麦浪](https://github.com/user-attachments/assets/a4b4d15f-9230-4621-a33a-5fd4558ce7e1)
+![春光里](https://github.com/user-attachments/assets/902ebe19-f6e7-40a5-95d8-06067a717a67)
+
 
 
